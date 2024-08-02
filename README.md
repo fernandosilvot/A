@@ -42,6 +42,8 @@ Espero que disfrutes utilizando este proyecto y aprendas mucho sobre Ollama, Lan
 Para más detalles, revisa el código y los comentarios dentro de los archivos.
 
 ### Contacto
+- Mi [LinkedIn](https://www.linkedin.com/in/fernando-silvo-t/)
+- Mi [Sitio Web](https://fernandosilvot.github.io/)
 
 Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactar al creador del proyecto.
 
