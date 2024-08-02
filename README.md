@@ -6,6 +6,8 @@
 
 Este proyecto demuestra cómo utilizar Ollama y Langchain para crear aplicaciones de procesamiento de lenguaje natural. Observé que la mayoría de los tutoriales disponibles en línea utilizan APIs de pago, y no encontré muchos recursos que mostraran cómo implementar estas tecnologías de forma local para ahorrar costos mientras se aprende.
 
+![OllamaLang](/assets/video/presentacion.mp4)
+
 ### ¿Cómo puedo empezar?
 
 1. **Instala Ollama y Langchain**: Sigue las instrucciones en sus respectivas documentaciones.
